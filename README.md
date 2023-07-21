@@ -18,9 +18,6 @@
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=efefee"/>
 <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=efefee"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=efefee"/>
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=efefee"/>
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=efefee"/>
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=efefee"/>
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=efefee"/>
 
 </p>
