@@ -7,6 +7,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=efefee"/>
+  <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=React&logoColor=efefee"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=efefee"/>
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=efefee"/>
     <img src="https://img.shields.io/badge/createreactapp-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=efefee"/>
